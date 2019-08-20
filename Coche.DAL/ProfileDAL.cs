@@ -2,7 +2,7 @@
 
 namespace Coche.DAL
 {
-    public class Class1
+    public class ProfileDAL
     {
     }
 }
